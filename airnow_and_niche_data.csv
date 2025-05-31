@@ -1,0 +1,71 @@
+zipcode,city,aqi,population,school_rating,area_type
+98103,Seattle - Wallingford,40,51988,A,Urban Suburban Mix
+98038,Maple Valley,35,37868,A,Rural
+98052,Redmond,40,79074,A+,Urban Suburban Mix
+98115,Seattle - Lake City,40,54248,A,Urban Suburban Mix
+98117,Seattle - Ballard,40,35147,A,Dense Suburban
+98042,Kent,44,48594,B,Sparse Suburban
+98034,Kirkland,40,51836,A,Urban Suburban Mix
+98118,Seattle - Columbia City,40,49560,A-,Urban Suburban Mix
+98023,Federal Way,37,49593,B-,Dense Suburban
+98006,Bellevue,40,40770,A+,Sparse Suburban
+98133,Seattle - Bitter Lake,40,52620,A,Urban
+98059,Renton,40,41639,A,Sparse Suburban
+98058,Renton,40,41980,A-,Dense Suburban
+98074,Sammamish,40,30850,A+,Sparse Suburban
+98155,Seattle - Northgate,40,35906,A,Dense Suburban
+98033,Kirkland,40,40662,A+,Urban Suburban Mix
+98027,Issaquah,35,28335,A+,Dense Suburban
+98053,Redmond,40,22838,A+,Sparse Suburban
+98125,Seattle - Lake City,40,43807,A-,Urban
+98056,Renton,40,36872,B+,Urban Suburban Mix
+98075,Sammamish,35,25231,A+,Sparse Suburban
+98001,Auburn,37,36041,B-,Sparse Suburban
+98092,Auburn,37,50510,B,Dense Suburban
+98126,Seattle - West Seattle,40,22433,A-,Urban Suburban Mix
+98144,Seattle - Beacon Hill,40,33048,A-,Urban Suburban Mix
+98116,Seattle - West Seattle,40,28091,A-,Urban Suburban Mix
+98106,Seattle - White Center,40,28889,A-,Urban Suburban Mix
+98029,Issaquah,35,30930,A+,Urban Suburban Mix
+98199,Seattle - Interbay,40,22751,A-,Urban Suburban Mix
+98004,Bellevue,40,39435,A+,Urban
+98065,Snoqualmie,35,16061,A,Rural
+98028,Kenmore,40,23594,A+,Dense Suburban
+98146,Seattle - Shorewood,40,28182,B,Dense Suburban
+98008,Bellevue,40,27138,B+,Dense Suburban
+98198,Seattle - SeaTac,40,39815,B-,Urban Suburban Mix
+98122,Seattle - Capitol Hill,40,42001,A-,Urban
+98003,Federal Way,37,52210,B-,Urban Suburban Mix
+98031,Kent,40,40898,B,Dense Suburban
+98040,Mercer Island,40,25282,A+,Urban Suburban Mix
+98168,Seattle - Tukwila,40,34814,C+,Urban Suburban Mix
+98072,Woodinville,40,24922,A+,Dense Suburban
+98112,Seattle - Madison Park,40,23961,A,Urban Suburban Mix
+98055,Renton,40,24851,B-,Urban Suburban Mix
+98136,Seattle - Westwood,40,17299,A-,Urban Suburban Mix
+98107,Seattle - Ballard,40,28390,A,Urban
+98178,Seattle - Skyway,40,25929,B,Dense Suburban
+98166,Seattle - Burien,40,22001,B-,Dense Suburban
+98030,Kent,40,38492,C+,"Urban Suburban Mix"
+98177,Seattle - Bitter Lake,40,20506,A,Dense Suburban
+98105,Seattle - University District,40,49229,A,Urban
+98022,Enumclaw,44,22135,B,Sparse Suburban
+98045,North Bend,35,15705,A-,Sparse Suburban
+98002,Auburn,37,37284,B-,Dense Suburban
+98077,Woodinville,40,14407,A+,Rural
+98019,Duvall,35,11712,A-,Rural
+98011,Bothell,40,28250,A+,Urban Suburban Mix
+98108,Seattle - Georgetown,40,24430,A-,Dense Suburban
+98119,Seattle - Queen Anne,40,26390,A,Urban
+98005,Bellevue,40,21929,A+,Urban Suburban Mix
+98007,Bellevue,40,26838,A+,Urban Suburban Mix
+98188,Seattle - SeaTac,40,26769,C+,Urban Suburban Mix
+98032,Kent,40,40150,C+,Urban Suburban Mix
+98070,Vashon,40,10424,A,Sparse Suburban
+98014,Carnation,35,7681,A-,Rural
+98109,Seattle - Queen Anne,40,32552,A-,Dense Urban
+98102,Seattle - Capitol Hill,40,26583,A,Dense Urban
+98010,Black Diamond,44,6351,B+,Rural
+98024,Fall City,35,4632,A,Rural
+98148,Seattle - Burien,40,10399,B-,Urban
+98039,Medina,40,2889,A+,Rural
